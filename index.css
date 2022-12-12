@@ -1,0 +1,32 @@
+#parent{
+    border: 2px solid black;
+    padding: 100px;
+    
+    height: 500px;
+    position: relative;
+
+}
+#one{
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    margin: 10px;
+    padding: 20px;
+
+}
+#two{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(94, 255, 0);
+    margin: 10px;
+    padding: 20px;
+    
+}
+#three{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(255, 0, 0);
+    margin: 10px;
+    padding: 20px;
+
+}
